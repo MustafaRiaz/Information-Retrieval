@@ -1,4 +1,2 @@
-Hello world!
-This is a simple search program.
-We are searching for words in this file.
-Python is awesome!
+C++ is used for systems programming and game development. 
+It's known for its performance and is often chosen for real-time applications where speed is crucial.

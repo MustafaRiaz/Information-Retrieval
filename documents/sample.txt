@@ -1,4 +1,2 @@
-Hello world!
-This is a simple search program.
-We are searching for words in this file.
-Python is awesome!
+Python is a popular programming language for web development, data analysis, and automation. 
+Many developers use Python for building complex applications and handling large data sets
